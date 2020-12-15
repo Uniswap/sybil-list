@@ -51,7 +51,7 @@ Sybil uses a 3 step process for linking an Ethereum address to a social identity
 	* Using these two inputs, recover a signer address
 	* Store this signer as a verified owner of the handle that authored the tweet
 	
-Example tweet: @todo link to tweet from real account 
+Example tweet: https://twitter.com/rleshner/status/1338918902475079683?s=20
  
 #### Signature Construction 
  
