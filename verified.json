@@ -1,0 +1,44 @@
+{
+  "0x8d07D225a769b7Af3A923481E1FdF49180e6A265": {
+    "twitter": {
+      "timestamp": 1608056072431,
+      "tweetID": "1338910142859862017",
+      "handle": "MonetSupply"
+    }
+  },
+  "0x4306D8e8AC2a9C893Ac1cd137a0Cd6966Fa6B6Ff": {
+    "twitter": {
+      "timestamp": 1608057011030,
+      "tweetID": "1338914205643071488",
+      "handle": "pmriviere"
+    }
+  },
+  "0x88FB3D509fC49B515BFEb04e23f53ba339563981": {
+    "twitter": {
+      "timestamp": 1608058130910,
+      "tweetID": "1338918902475079683",
+      "handle": "rleshner"
+    }
+  },
+  "0x965b813b302DFccdF6C2f676D59D7D3C960D3582": {
+    "twitter": {
+      "timestamp": 1608058387110,
+      "tweetID": "1338919992616775686",
+      "handle": "nick_emmons"
+    }
+  },
+  "0x565B93a15d38aCD79c120b15432D21E21eD274d6": {
+    "twitter": {
+      "timestamp": 1608058403880,
+      "tweetID": "1338920072983658498",
+      "handle": "Flynnjamm"
+    }
+  },
+  "0x74Aa01d162E6dC6A657caC857418C403D48E2D77": {
+    "twitter": {
+      "timestamp": 1608059304223,
+      "tweetID": "1338923847010181122",
+      "handle": "ianlapham"
+    }
+  }
+}
