@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Uniswap/sybil-list)
+
 # sybil-list 
 This repo contains a list of verified mappings that link Ethereum addresses with social profiles (Twitter supported currently). 
 
